@@ -508,9 +508,13 @@ dotchart(fit$variable.importance)
 
 - But neither a magic bullet
 
+## Discussion
+
 - Solutions ? 
 
 - What's coming next ?
+
+
 
 
 
