@@ -18,9 +18,9 @@ subtitle: DublinR, September 2015
 
 ## About me
 
-* Started @ Google Ireland
+* Started @ Google Ireland - online sales & ops
 
-* Career break
+* Career break (back to school)
 
 * Web analyst @ WhatClinic.com
 
@@ -513,16 +513,7 @@ dotchart(fit$variable.importance)
 - What's coming next ?
 
 
-# Useful links
 
-
-* developers.google.com/analytics/solutions/r-google-analytics
-
-* developers.google.com/identity/sign-in/web/devconsole-project
-
-* cran.r-project.org/web/packages/RGA/vignettes/common-queries.html
-
-* cran.r-project.org/web/packages/RGA/vignettes/authorize.html
 
 
 
