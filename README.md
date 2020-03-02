@@ -17,6 +17,4 @@ This talk covers the following :
 
 • Practical analytics applications with R
 
-• Discussion
-
 
